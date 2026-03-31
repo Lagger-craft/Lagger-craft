@@ -66,21 +66,4 @@ Si instalo Docker, quiero saber cómo levanta un contenedor. Si uso React, quier
 Esa obsesión por entender las capas inferiores es lo que me diferencia.
 
 ---
-
-## 🤝 ¿Qué busco?
-
-Una posición donde pueda:
-
-- **Aprender de gente con más experiencia** — Quiero absorber todo lo que pueda
-- **Aportar con lo que sé** — Tengo bases sólidas en Linux, Docker y JavaScript
-- **Crecer como desarrollador** — No me quedo quieto; si hay un problema, lo investigo hasta resolverlo
-
----
-
-## 📬 Contacto
-
-- **GitHub:** [@Lagger-craft](https://github.com/Lagger-craft)
-
----
-
 > *"Arch no se instala, se construye. Y una vez que lo construís, entendés cómo funciona una computadora de verdad."*
