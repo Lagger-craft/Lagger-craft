@@ -22,19 +22,6 @@ Mientras busco, mantengo mi propio servidor, experimento con IA local, y documen
 
 ---
 
-## 🔧 Tech Stack
-
-| Área | Tecnologías |
-|------|-------------|
-| **Frontend** | React, JavaScript |
-| **Backend** | Python |
-| **Bases de datos** | MongoDB |
-| **Infraestructura** | Docker, Linux (Arch), Tailscale |
-| **IA Local** | Ollama, OpenWebUI, Pipelines |
-| **Herramientas** | Git, Terminal, Obsidian |
-
----
-
 ## 🖥️ Lo que hago en mi tiempo
 
 ### Self-hosting & Servidores
